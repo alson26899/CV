@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react';
 // vite.config.js
 export default {
   // ...
-  base: '/Portofolio/', // Replace with your repository name
+  base: '/CV/', // Replace with your repository name
   // ...
 };
